@@ -5,8 +5,8 @@ Bluetooth voice commands, and EMG-based muscle control.
 
 ## Team Members
 - Akshay Bhat  
-- Amogh  
-- Manas  
+- Amogh Basavaraj
+- Manas Prashant
 
 ## Features
 - Voice control via Bluetooth Serial (HC-05)
