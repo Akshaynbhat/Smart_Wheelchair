@@ -30,10 +30,18 @@ Bluetooth voice commands, and EMG-based muscle control.
 - Breadboard / PCB (if used)
 
 ## Images
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8878ea49-5674-4869-baf9-1788eb2d7f03"
+       width="350"
+       height="420"
+       alt="Smart Wheelchair Prototype"/>
 
-![Smart Wheelchair Prototype](https://github.com/user-attachments/assets/8878ea49-5674-4869-baf9-1788eb2d7f03)
+  <img src="https://github.com/user-attachments/assets/0db91fb1-a576-442f-bfc9-490dd004dafa"
+       width="350"
+       height="420"
+       alt="EMG Sensor Setup"/>
+</p>
 
-![EMG Sensor Setup](https://github.com/user-attachments/assets/0db91fb1-a576-442f-bfc9-490dd004dafa)
 
 
 
