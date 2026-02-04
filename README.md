@@ -30,8 +30,8 @@ Bluetooth voice commands, and EMG-based muscle control.
 - Breadboard / PCB (if used)
 
 ## Images
-<img width="760" height="890" alt="image" src="https://github.com/user-attachments/assets/8878ea49-5674-4869-baf9-1788eb2d7f03" />
-<img width="1356" height="1600" alt="image" src="https://github.com/user-attachments/assets/0db91fb1-a576-442f-bfc9-490dd004dafa" />
+<img width="350" height="420" alt="image" src="https://github.com/user-attachments/assets/8878ea49-5674-4869-baf9-1788eb2d7f03" />
+<img width="350" height="420" alt="image" src="https://github.com/user-attachments/assets/0db91fb1-a576-442f-bfc9-490dd004dafa" />
 
 
 
