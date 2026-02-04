@@ -19,7 +19,8 @@ Bluetooth voice commands, and EMG-based muscle control.
 ## Hardware Used
 - Arduino Uno  
 - HC-05 Bluetooth Module  
-- BioAmp Candy EMG Sensor (Upside Down Labs)  
+- BioAmp Candy EMG Sensor (Upside Down Labs)
+- Gel electrodes
 - Ultrasonic Sensor (HC-SR04)  
 - Motor Driver Module  
 - DC Gear Motors  
@@ -34,9 +35,6 @@ Bluetooth voice commands, and EMG-based muscle control.
 ![Smart Wheelchair Prototype](files/Smart_wheel1.jpeg)
 
 ![Smart Wheelchair Setup](files/Smart_Wheel2.jpeg)
-
-
-
 
 
 
