@@ -1,5 +1,3 @@
-CLAUDE VERSION 6
-
 // Smart Wheelchair with Voice and EMG Control
 // Optimized with proper debouncing, filter reset, and minimal serial output
 // Hardware: Arduino Uno/Nano + HC-05 Bluetooth + Muscle BioAmp Candy EMG Sensor
