@@ -27,8 +27,7 @@ Bluetooth voice commands, and EMG-based muscle control.
 - Robot Chassis with Wheels  
 - Battery / Power Supply  
 - Jumper Wires  
-- Resistors (for voltage divider)  
-- Breadboard / PCB (if used)
+
 
 ## Images
 
