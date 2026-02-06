@@ -31,9 +31,9 @@ Bluetooth voice commands, and EMG-based muscle control.
 
 ## Images
 
-![WhatsApp Image 2026-02-04 at 20 30 20](https://github.com/user-attachments/assets/d7727ceb-f875-4cc4-ad6d-8edf23257088)
-![WhatsApp Image 2026-02-04 at 20 29 30](https://github.com/user-attachments/assets/c69cba16-19ba-49e8-8815-fcc7dc27f362)
+![Smart Wheelchair Prototype](files/Smart_wheel1.jpeg)
 
+![Smart Wheelchair Setup](files/Smart_Wheel2.jpeg)
 
 ## License
 MIT
