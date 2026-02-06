@@ -35,5 +35,10 @@ Bluetooth voice commands, and EMG-based muscle control.
 
 ![Smart Wheelchair Setup](files/Smart_Wheel2.jpeg)
 
+## Demo Videos
+
+📂 Project Demo Folder:  
+https://drive.google.com/drive/folders/1zVxyBHyKLJpuXkYsseQ_QuEECUXHocCf
+
 ## License
 MIT
