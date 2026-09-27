@@ -31,6 +31,10 @@ Bluetooth voice commands, and EMG-based muscle control.
 
 ## Images
 
+![Smart Wheelchair Prototype](files/wheelchair_front_view.jpeg)
+
+![Smart Wheelchair Prototype](files/wheelchair_back_view.jpeg)
+
 ![Smart Wheelchair Prototype](files/Smart_wheel1.jpeg)
 
 ![Smart Wheelchair Setup](files/Smart_Wheel2.jpeg)
